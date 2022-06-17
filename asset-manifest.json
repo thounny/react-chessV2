@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-chessV2/static/css/main.d6d166e2.chunk.css",
+    "main.js": "/react-chessV2/static/js/main.2d631e70.chunk.js",
+    "main.js.map": "/react-chessV2/static/js/main.2d631e70.chunk.js.map",
+    "runtime-main.js": "/react-chessV2/static/js/runtime-main.6a741afc.js",
+    "runtime-main.js.map": "/react-chessV2/static/js/runtime-main.6a741afc.js.map",
+    "static/js/2.51812d48.chunk.js": "/react-chessV2/static/js/2.51812d48.chunk.js",
+    "static/js/2.51812d48.chunk.js.map": "/react-chessV2/static/js/2.51812d48.chunk.js.map",
+    "index.html": "/react-chessV2/index.html",
+    "precache-manifest.8b134827af6511504c6ba53d4d8e567d.js": "/react-chessV2/precache-manifest.8b134827af6511504c6ba53d4d8e567d.js",
+    "service-worker.js": "/react-chessV2/service-worker.js",
+    "static/css/main.d6d166e2.chunk.css.map": "/react-chessV2/static/css/main.d6d166e2.chunk.css.map",
+    "static/js/2.51812d48.chunk.js.LICENSE.txt": "/react-chessV2/static/js/2.51812d48.chunk.js.LICENSE.txt",
+    "static/media/q_w.png": "/react-chessV2/static/media/q_w.3382a953.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a741afc.js",
+    "static/js/2.51812d48.chunk.js",
+    "static/css/main.d6d166e2.chunk.css",
+    "static/js/main.2d631e70.chunk.js"
+  ]
+}
