@@ -1,4 +1,5 @@
 {
+  "homepage": "https://thounny.github.io/react-chessV2",
   "name": "react-chess",
   "version": "0.1.0",
   "private": true,
@@ -15,6 +16,8 @@
     "rxjs": "^6.6.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -38,5 +41,8 @@
   "description": "Starter code for the tutorial of building a chess application with react",
   "main": "index.js",
   "author": "thounny",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
